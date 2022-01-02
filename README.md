@@ -55,6 +55,6 @@ You can now run the development server:
       python manage.py createsuperuser
       
     
-You can check api end poind documentation on postman from :
+You can check api endpoind documentation on postman from :
 
 https://documenter.getpostman.com/view/14601930/UVRHiioY
